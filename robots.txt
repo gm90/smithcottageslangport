@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://smithcottageslangport.co.uk/sitemap.xml
+Host: https://smithcottageslangport.co.uk
